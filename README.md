@@ -1,4 +1,4 @@
-# Ejercicios-Interactivos
+# Programas-Interactivos-Python
 Ejercicios Interactivos en Python
 
 1. Calculadora de Descentos.
